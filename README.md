@@ -1,3 +1,10 @@
+## Demo-Video
+
+
+
+https://github.com/Ritika-Paul/music-streaming/assets/80167582/da01c5fb-bc66-411d-bab8-44f02c29775c
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
