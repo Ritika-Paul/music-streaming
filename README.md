@@ -1,6 +1,6 @@
 ## Project Report
 
-[Project Report_ Blockchain Music Streaming dApp.pdf](https://github.com/Ritika-Paul/music-streaming/files/12841467/Project.Report_.Blockchain.Music.Streaming.dApp.pdf)
+http://tiny.cc/projectreportcc
 
 
 ## Presentation
